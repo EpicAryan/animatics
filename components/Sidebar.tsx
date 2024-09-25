@@ -10,7 +10,7 @@ const Sidebar = () => {
                             <div className="pb-4">
                                 <h4 className="mb-1 rounded-md px-2 py-1 text-sm font-semibold">Components</h4>
                                 <div className="grid grid-flow-row auto-rows-max text-sm">
-                                    <Link href="zoom-parallax" className="group flex w-full items-center rounded-md border border-transparent px-2 py-1 hover:underline text-muted-foreground">Zoom Parallax</Link>
+                                    <Link href="text-hover-lift" className="group flex w-full items-center rounded-md border border-transparent px-2 py-1 hover:underline text-muted-foreground">Text Hover Lift</Link>
                                     <Link href="zoom-parallax-01" className="group flex w-full items-center rounded-md border border-transparent px-2 py-1 hover:underline text-muted-foreground">Zoom Parallax Mountains</Link>
                                     <Link href="magnetic-button" className="group flex w-full items-center rounded-md border border-transparent px-2 py-1 hover:underline text-muted-foreground">Magnetic Social Buttons</Link>
                                     <Link href="smooth-scroll" className="group flex w-full items-center rounded-md border border-transparent px-2 py-1 hover:underline text-muted-foreground">Smooth Scroll</Link>
