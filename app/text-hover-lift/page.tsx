@@ -4,7 +4,7 @@ const TextHoverLift = () => {
   return (
     <div className='h-[50vh] w-full flex justify-center items-center'>
       <div className='flex flex-col justify-start items-start gap-2'>
-        <TextLift value="EXPERIMENTS" />
+        <TextLift value="ANIMATIONS" />
       </div>
     </div>
   )

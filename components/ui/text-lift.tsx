@@ -10,7 +10,7 @@ const TextLift = ({ value, className }: { value: string; className?: string }) =
             <span
               key={index}
               data-char={char}
-              className={`relative transition-transform duration-300 before:content-[attr(data-char)] before:left-0 before:absolute before:-top-full hover:translate-y-full hover:transform-cpu`}
+              className={`relative transition-transform duration-500 before:content-[attr(data-char)] before:left-0 before:absolute before:-top-full hover:translate-y-full hover:transform-cpu`}
             >
               {char}
             </span>

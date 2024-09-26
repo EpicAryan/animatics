@@ -11,13 +11,7 @@ const Sidebar = () => {
                                 <h4 className="mb-1 rounded-md px-2 py-1 text-sm font-semibold">Components</h4>
                                 <div className="grid grid-flow-row auto-rows-max text-sm">
                                     <Link href="text-hover-lift" className="group flex w-full items-center rounded-md border border-transparent px-2 py-1 hover:underline text-muted-foreground">Text Hover Lift</Link>
-                                    <Link href="zoom-parallax-01" className="group flex w-full items-center rounded-md border border-transparent px-2 py-1 hover:underline text-muted-foreground">Zoom Parallax Mountains</Link>
-                                    <Link href="magnetic-button" className="group flex w-full items-center rounded-md border border-transparent px-2 py-1 hover:underline text-muted-foreground">Magnetic Social Buttons</Link>
-                                    <Link href="smooth-scroll" className="group flex w-full items-center rounded-md border border-transparent px-2 py-1 hover:underline text-muted-foreground">Smooth Scroll</Link>
-                                    <Link href="mask-cursor-effect" className="group flex w-full items-center rounded-md border border-transparent px-2 py-1 hover:underline text-muted-foreground">Mask Cursor Effect</Link>
-                                    <Link href="slide-scroll" className="group flex w-full items-center rounded-md border border-transparent px-2 py-1 hover:underline text-muted-foreground">Slide Scroll</Link>
-                                    <Link href="trailing-mouse" className="group flex w-full items-center rounded-md border border-transparent px-2 py-1 hover:underline text-muted-foreground">Trailing Mouse Effects</Link>
-                                    <Link href="haccky-text-animation" className="group flex w-full items-center rounded-md border border-transparent px-2 py-1 hover:underline text-muted-foreground">Hackky Text Animation</Link>
+                                    <Link href="box-animate" className="group flex w-full items-center rounded-md border border-transparent px-2 py-1 hover:underline text-muted-foreground">Box Animate</Link>
                                 </div>
                             </div>
                         </div>
