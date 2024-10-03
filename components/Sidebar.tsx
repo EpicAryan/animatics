@@ -13,6 +13,7 @@ const Sidebar = () => {
                                     <Link href="text-hover-lift" className="group flex w-full items-center rounded-md border border-transparent px-2 py-1 hover:underline text-muted-foreground">Text Hover Lift</Link>
                                     <Link href="box-animate" className="group flex w-full items-center rounded-md border border-transparent px-2 py-1 hover:underline text-muted-foreground">Box Animate</Link>
                                     <Link href="mask-cursor" className="group flex w-full items-center rounded-md border border-transparent px-2 py-1 hover:underline text-muted-foreground">Mask Cursor</Link>
+                                    <Link href="smooth-scroll" className="group flex w-full items-center rounded-md border border-transparent px-2 py-1 hover:underline text-muted-foreground">Smooth Scroll</Link>
                                 </div>
                             </div>
                         </div>
